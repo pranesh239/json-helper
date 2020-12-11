@@ -4,6 +4,11 @@
   "description": "JSON minify and beautify (prettify) app",
   "version": "0.0.1",
   "icon": "media/icon.png",
+  "publisher": "praneshpsg239",
+  "author": {
+    "name": "Pranesh T G",
+    "url": "https://www.tgpranesh.site/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pranesh239/json-helper"

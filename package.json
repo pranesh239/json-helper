@@ -2,7 +2,7 @@
   "name": "json-helper",
   "displayName": "JSON helper",
   "description": "JSON minify and beautify (prettify) app",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "icon": "media/icon.png",
   "publisher": "praneshpsg239",
   "author": {

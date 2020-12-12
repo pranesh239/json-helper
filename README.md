@@ -14,10 +14,11 @@
 ### Features
 
 1. Can minify JSON
-   a. ctrl/cmd + p
-   b. Search for **Minify JSON**
-   c. Press `Enter`
+   - ctrl/cmd + p
+   - Search for **Minify JSON**
+   - Press `Enter`
+   
 2. Can Beautify (prettify) JSON
-   a. ctrl/cmd + p
-   b. Search for **Prettify JSON**
-   c. Press `Enter`
+   - ctrl/cmd + p
+   - Search for **Prettify JSON**
+   - Press `Enter`

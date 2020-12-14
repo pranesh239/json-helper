@@ -7,7 +7,7 @@
 	</h4>
 	<br>
 
-Minify - <kbd>Alt/Option</kbd> + <kbd>m</kbd>
+Minify - <kbd>Alt/Option</kbd> + <kbd>m</kbd> <br>
 Prettify - <kbd>Alt/Option</kbd> + <kbd>p</kbd>
 <br>
 
@@ -23,7 +23,6 @@ Prettify - <kbd>Alt/Option</kbd> + <kbd>p</kbd>
    - ctrl/cmd + p
    - Search for **Minify JSON**
    - Press `Enter`
-   
 2. Can Beautify (prettify) JSON
    - ctrl/cmd + p
    - Search for **Prettify JSON**

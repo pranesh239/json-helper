@@ -2,7 +2,7 @@
   "name": "json-helper",
   "displayName": "JSON helper",
   "description": "JSON minify and beautify (prettify) app",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "icon": "media/icon.png",
   "publisher": "praneshpsg239",
   "author": {
@@ -20,6 +20,14 @@
   "categories": [
     "Formatters"
   ],
+  "tags": [
+    "format",
+    "code",
+    "json",
+    "minify",
+    "beautify",
+    "light weight"
+  ],
   "activationEvents": [
     "onCommand:json-helper.pretty-JSON",
     "onCommand:json-helper.minify-JSON"
@@ -34,6 +42,18 @@
       {
         "command": "json-helper.minify-JSON",
         "title": "Minify JSON"
+      }
+    ],
+    "keybindings": [
+      {
+        "key": "alt+p",
+        "command": "json-helper.pretty-JSON",
+        "mac": "alt+p"
+      },
+      {
+        "key": "alt+m",
+        "command": "json-helper.minify-JSON",
+        "mac": "alt+m"
       }
     ]
   },

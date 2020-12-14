@@ -6,7 +6,13 @@
 		VS Code extension to minify and beautify (prettify) JSON
 	</h4>
 	<br>
-	<img width="640" src="https://raw.githubusercontent.com/pranesh239/json-helper/main/media/feature-demo.gif" alt="JSON helper feature demo GIF">
+
+Minify - <kbd>Alt/Option</kbd> + <kbd>m</kbd>
+Prettify - <kbd>Alt/Option</kbd> + <kbd>p</kbd>
+<br>
+
+<img width="640" src="https://raw.githubusercontent.com/pranesh239/json-helper/main/media/feature-demo.gif" alt="JSON helper feature demo GIF">
+
 </div>
 
 [Get the extension here](https://marketplace.visualstudio.com/items?itemName=praneshpsg239.json-helper)
